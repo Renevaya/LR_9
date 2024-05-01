@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Выбрать первое изображение"
+        android:id="@+id/preferences" />
+    <item
+        android:title="Выбрать второе изображение"
+        android:id="@+id/second" />
+    <item
+        android:title="Выбрать третье изображение"
+        android:id="@+id/home" />
+</menu>
